@@ -1,0 +1,43 @@
+:root {
+  --turquoise: #55CCCC;
+  --turquoise_light: #CFFAFA;
+  --turquoise_dark: #53C2C2;
+  --turquoise_dark2: #28B8B8;
+  --orange:#F76434;
+  --orange_pastel:#FFE6DC;
+  --white: #ffffff;
+  --teal:#4AA088;
+  --steel_blue: #335C6E;
+  --yellow: #FABD33;
+  --yellow_dark:#FAAD00;
+}
+
+.primary_bg_turquoise{
+  background-color: var(--turquoise);
+}
+
+.primary_bg_white{
+  background-color: var(--white);
+}
+
+.primary_bg_steel_blue{
+  background-color:var(--steel_blue);
+}
+.primary_bg_yellow{
+  background-color:var(--steel_blue);
+}
+
+.primary_text_turquoise{
+  color: var(--turquoise);
+}
+
+.primary_text_white{
+  color: var(--white);
+}
+
+.primary_text_steel_blue{
+  color:var(--steel_blue);
+}
+.primary_text_yellow{
+  color:var(--steel_blue);
+}
